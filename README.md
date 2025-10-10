@@ -1,6 +1,6 @@
 # CERF: A Communication-efficient and Retraining-free Framework for Multi-UAV Collaborative Perception
 <div align="center">
-  <img src="https://github.com/uestchjw/CERF/blob/main/images/Overview.pdf" style="width:70%">
+  <img src="https://github.com/uestchjw/CERF/blob/main/images/Overview.png" style="width:70%">
 </div>
 
 ## TODO list
